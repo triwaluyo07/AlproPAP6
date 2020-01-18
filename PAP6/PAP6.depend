@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1522934160 source:d:\pap6\fungsi.c
+	"header.h"
+
+1522931557 d:\pap6\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1522934129 source:d:\pap6\main.c
+	"header.h"
+
+1523271104 source:e:\pap6\fungsi.c
+	"header.h"
+
+1523270998 e:\pap6\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1523271118 source:e:\pap6\main.c
+	"header.h"
+
+1523271104 source:g:\pap6\fungsi.c
+	"header.h"
+
+1523270998 g:\pap6\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1523270998 source:g:\pap6\main.c
+	"header.h"
+
+1523271104 source:f:\alpro\pap6\fungsi.c
+	"header.h"
+
+1523270998 f:\alpro\pap6\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1523515334 source:e:\alpro\pap6\fungsi.c
+	"header.h"
+
+1523270998 e:\alpro\pap6\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1523414260 source:e:\alpro\pap6\main.c
+	"header.h"
+
